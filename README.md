@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chaitanyasawant](https://medium.com/@chaitanyasawant)
 
-- 💬 Ask me about **Machine Learning, Statistics, Data Science**
+- 💬 Ask me about **Machine Learning, Statistics, Data Science, Web Dev**
 
 - 📫 How to reach me **csawant2407@gmail.com**
 
