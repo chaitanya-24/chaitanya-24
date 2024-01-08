@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-24&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-24" /> </p>
 
-- 🔭 I’m currently working on [Movie Recommender System](https://github.com/chaitanya-24/Movie-Recommender-System)
+- 🔭 I’m currently working on [Machine Learning 101]([https://github.com/chaitanya-24/Machine-Learning-101])
 
 - 📝 I regularly write articles on [https://medium.com/@chaitanyasawant](https://medium.com/@chaitanyasawant)
 
