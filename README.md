@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Sawant</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h3 align="center"> A Developer from India, turning coffee into code faster than you can say 'chai latte!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-24&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-24" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Statistics, Data Science, Web Dev**
 
-- 📫 How to reach me **csawant2407@gmail.com**
+- 📫 How to reach me **chaitanya.aiwork@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
