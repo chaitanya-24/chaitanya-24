@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chaitnaya_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitnaya_42" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaitanyasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyasawant" height="30" width="40" /></a>
-<a href="https://kaggle.com/chaitanyasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaitanyasawant" height="30" width="40" /></a>
-<a href="https://medium.com/@chaitanyasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chaitanyasawant" height="30" width="40" /></a>
+<a href="https://twitter.com/chaitanya_42" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitnaya_42" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaitanyasawant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyasawant" height="30" width="40" /></a>
+<a href="https://kaggle.com/chaitanyasawant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaitanyasawant" height="30" width="40" /></a>
+<a href="https://medium.com/@chaitanyasawant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chaitanyasawant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
